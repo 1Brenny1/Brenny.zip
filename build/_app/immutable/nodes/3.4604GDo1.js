@@ -1,0 +1,1 @@
+import{A as e,O as t,S as n,b as r,s as i}from"../chunks/CQ28TgKi.js";var a=n(`<div class="flex flex-col w-full justify-center items-center gap-2"><h1 class="text-5xl font-semibold">Contact</h1> <hr class="hr w-1/2"/></div>`);function o(n){var o=a();i(`1bv7ezn`,n=>{t(()=>{e.title=`Brenny.zip - Contact`})}),r(n,o)}export{o as component};
